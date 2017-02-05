@@ -25,8 +25,11 @@ Analogy between "Search Engine" vs "Mini Search Engine":
 Pre-Requiste :
 
 XCode - Mac OS
+
 Microsoft Visual Studio - Windows OS
+
 Understanding of C++ and STL
+
 Text-Editor
 
 
