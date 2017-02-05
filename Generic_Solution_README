@@ -4,3 +4,5 @@ And it opens the URL in the default browser.
 
 # I am using XCode so to Open the Browser we need to import to Frameworks - Core Foundation and ApplicationServices.
 # Windows User can use <windows.h> and Shell commands to open the URL in Windows Machine
+
+NOTE: Many URL's provided in the file are dummy and repeated URL's as it has been put in for Testing
