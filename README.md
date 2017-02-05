@@ -13,7 +13,7 @@ What to Learn:
 
 We will Understand the methods in C++ and how we have applied all the relevant topics from c++ in our code to make our "Mini Search Engine" of two Text File and how it searches through the hundreds of search elements for every "search" we make and gives our result.
 
-Analogy between "Search Engine" vs "Mini Search":
+Analogy between "Search Engine" vs "Mini Search Engine":
 
 * Millions of Webpages  ==   Two Text Documents
 * Input Field  ==  Input stream of your IDE
@@ -21,5 +21,14 @@ Analogy between "Search Engine" vs "Mini Search":
 * Sorting  == Sorting most relevant at top
 * UnFound Match in WebPage  ==  Add the Unfound Search into one text document
 * Found match - it opens all Relevant WebPages in Browser ==  Found Match - it Opens One Webpage in Browser
+
+Pre-Requiste :
+
+XCode - Mac OS
+Microsoft Visual Studio - Windows OS
+Understanding of C++ and STL
+Text-Editor
+
+
 
 
