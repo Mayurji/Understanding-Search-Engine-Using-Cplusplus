@@ -1,0 +1,6 @@
+This is the file where the flow of our code goes after the most relevant search is made
+and it pass the control to a mapped Specific Url which is available in "Generic_Solution.txt".
+And it opens the URL in the default browser.
+
+# I am using XCode so to Open the Browser we need to import to Frameworks - Core Foundation and ApplicationServices.
+# Windows User can use <windows.h> and Shell commands to open the URL in Windows Machine
