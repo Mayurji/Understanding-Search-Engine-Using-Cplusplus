@@ -1,5 +1,6 @@
 # Cplusplus-Project
 Understanding Search Engine with C++ Program
+
 Search Engine: 
 
 A general search engine is an Internet portal through which a person can search numerous compiled resources for topic-related information. Common general search engines include Google, Yahoo!, Alta Vista and Bing. To perform a search, the user enters a word or phrase. 
