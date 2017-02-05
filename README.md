@@ -32,6 +32,6 @@ Understanding of C++ and STL
 
 Text-Editor
 
-
+NOTE : Code is expected to Return Exception and the Work is in Progress respectively
 
 
