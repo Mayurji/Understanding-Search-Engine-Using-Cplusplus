@@ -198,7 +198,7 @@ void Solutions::subSearch(int subSearchArray,int noOfWords,string searchedString
 string Problems::differentProblems(){
     
     string anythingSpecificProblem;
-    cout<<"what's your problem ?";
+    cout<<"Please Enter your Search "<<endl;
     std::getline(std::cin,anythingSpecificProblem);
     return anythingSpecificProblem;
     
