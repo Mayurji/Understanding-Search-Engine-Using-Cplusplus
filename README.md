@@ -23,9 +23,13 @@ Analogy between "Search Engine" vs "Mini Search Engine":
 * Found match - it opens all Relevant WebPages in Browser ==  Found Match - it Opens One Webpage in Browser
 
 
-Searching Technique :
+Searching & Indexing Technique :
 
-Linear Search Technique is used to search through text files where more than 100 elements are available to search. Each of the Element is indexed and stored. When a search is made, all the relevant words searched through each element(a line) and gives out INDEX when maximum match of words in an element occurs.
+GOOGLE SEARCH ENGINE:
+PageRank is technique used by Google Search Engine to Rank the Website based on the Number of incoming links to the website.Google Bot is used for Indexing the New Webpages and the process used is Crawling. 
+
+MINI SEARCH ENGINE:
+Linear Search Technique is used to search through text files where more than 100 elements are available to search. Each of the Element is indexed and stored. When a search is made, all the relevant words searched through each element(a line) and gives out INDEX when maximum match of words in an element occurs.A match is not found then the particular is search is indexed and then added to the text file.
 
 Pre-Requiste :
 
