@@ -33,14 +33,16 @@ Linear Search Technique is used to search through text files where more than 100
 
 ## Pre-Requiste :
 
-XCode - Mac OS
++ XCode - Mac OS
 
-Microsoft Visual Studio - Windows OS
++ Microsoft Visual Studio - Windows OS
 
-Understanding of C++ and STL
++ Understanding of C++ and STL
 
-Text-Editor
++ Text-Editor
 
-NOTE : Code is expected to Return Exception and the Work is in Progress respectively
+## NOTE : 
+
+Code is expected to Return Exception and the Work is in Progress respectively
 
 
