@@ -31,11 +31,11 @@ PageRank is technique used by Google Search Engine to Rank the Website based on 
 ### MINI SEARCH ENGINE:
 Linear Search Technique is used to search through text files where more than 100 elements are available to search. Each of the Element is indexed and stored. When a search is made, all the relevant words searched through each element(a line) and gives out INDEX when maximum match of words in an element occurs.A match is not found then the particular is search is indexed and then added to the text file.
 
-## Pre-Requiste :
+## Prerequisite :
 
 + XCode - Mac OS
 
-+ Microsoft Visual Studio - Windows OS
++ Microsoft Visual Studio - Editor
 
 + Understanding of C++ and STL
 
