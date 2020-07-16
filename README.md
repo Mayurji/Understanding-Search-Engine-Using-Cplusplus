@@ -35,7 +35,7 @@ Linear Search Technique is used to search through text files where more than 100
 
 + XCode - Mac OS
 
-+ Microsoft Visual Studio - Editor
++ Microsoft Visual Studio - Editor (optional)
 
 + Understanding of C++ and STL
 
